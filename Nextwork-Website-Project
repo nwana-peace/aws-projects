@@ -1,0 +1,2 @@
+#Nextwork Website Hosting Project
+A set up of a small website on Amazon S3 to understand how static hosting works in the cloud. My goal was to learn how S3 organises files, how access is controlled, and how a bucket becomes reachable on the internet.
