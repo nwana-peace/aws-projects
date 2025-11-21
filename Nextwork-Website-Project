@@ -1,2 +1,8 @@
-#Nextwork Website Hosting Project
+# Nextwork Website Hosting Project
+
 A set up of a small website on Amazon S3 to understand how static hosting works in the cloud. My goal was to learn how S3 organises files, how access is controlled, and how a bucket becomes reachable on the internet.
+A static website hosted on **Nextwork** and documented on Medium.
+
+## Live Links
+- Nextwork Project: [view website](https://learn.nextwork.org/heartfelt_rose_wise_feijoa/docs/aws-host-a-website-on-s3)
+- Medium Article: [Read Medium article](https://medium.com/@nwanapeace12/day-1-hosting-a-website-on-amazon-s3-a3c9c22c8386?postPublishedType=initial)
